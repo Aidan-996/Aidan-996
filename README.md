@@ -1,25 +1,25 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=C0392B&center=true&vCenter=true&random=false&width=680&lines=Hi+%F0%9F%91%8B+I'm+Aidan;Full+Stack+Developer;Virtualization+Expert;Open+Source+Enthusiast;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=680&lines=Hi+%F0%9F%91%8B+I'm+Aidan;Full+Stack+Developer+%F0%9F%92%BB;Virtualization+Expert+%E2%98%81%EF%B8%8F;Open+Source+Enthusiast+%F0%9F%94%A5;Welcome+to+my+GitHub!+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Aidan-996&color=C0392B&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/Aidan-996?style=flat-square&color=C0392B)
-![GitHub stars](https://img.shields.io/github/stars/Aidan-996?style=flat-square&color=C9A84C&affiliations=OWNER)
-
-</div>
-
----
-
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Aidan
-### Full Stack Developer | Open Source Enthusiast | Virtualization Expert | Python / Go / Cloud Native
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-**Located in**: Singapore (SG) :singapore:
+<img src="https://img.shields.io/badge/🌍_Singapore-FF6B6B?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/💼_Full_Stack-4ECDC4?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/☁️_Cloud_Native-45B7D1?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/🖥️_Virtualization-96CEB4?style=flat-square&logoColor=white" />
 
 &nbsp;
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+![Profile Views](https://komarev.com/ghpvc/?username=Aidan-996&color=FF6B6B&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/Aidan-996?style=for-the-badge&color=4ECDC4&label=FOLLOWERS)
+![GitHub stars](https://img.shields.io/github/stars/Aidan-996?style=for-the-badge&color=FFE66D&affiliations=OWNER&label=STARS)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+&nbsp;
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> &nbsp;About Me
 
 I'm a full stack developer, mainly focused on virtualization and cloud technologies.
 
@@ -29,7 +29,7 @@ For development, I primarily use Python, Go, and PHP — pragmatic by nature, wh
 
 &nbsp;
 
-## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"> 简介
+## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="35"> &nbsp;简 介
 
 我是一名全栈开发者，主要专注虚拟化和云技术方向。
 
@@ -41,41 +41,43 @@ For development, I primarily use Python, Go, and PHP — pragmatic by nature, wh
 
 &nbsp;
 
-## <img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy.gif" width="30"> 写在技术之外 | Beyond Code
+## <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="35"> &nbsp;写在技术之外 | Beyond Code
 
-<blockquote>
+<table><tr><td>
 
-<p>慢慢做技术这些年，也会开始想一些和技术无关的东西。</p>
+🌅 &nbsp;慢慢做技术这些年，也会开始想一些和技术无关的东西。
 
-<p>我们这一代人，大多都是从不太起眼的地方走出来的。小时候觉得世界很小，一条路、一盏灯、一顿饭，就能过一天。那时候总想着快点长大，去更远的地方，看更多的东西。</p>
+🏘️ &nbsp;我们这一代人，大多都是从不太起眼的地方走出来的。小时候觉得世界很小，一条路、一盏灯、一顿饭，就能过一天。那时候总想着快点长大，去更远的地方，看更多的东西。
 
-<p>后来真的走远了，见的也多了。可慢慢发现，很多东西并没有想象中那么值得期待。城市很大，人很多，但热闹好像都跟自己没什么关系。</p>
+🌆 &nbsp;后来真的走远了，见的也多了。可慢慢发现，很多东西并没有想象中那么值得期待。城市很大，人很多，但热闹好像都跟自己没什么关系。
 
-<p>小时候觉得苦的日子，现在回头看，反而是最安稳的。那时候没有太多选择，也没有太多压力，累了就睡，饿了就吃，难过也很简单。</p>
+🍃 &nbsp;小时候觉得苦的日子，现在回头看，反而是最安稳的。那时候没有太多选择，也没有太多压力，累了就睡，饿了就吃，难过也很简单。
 
-<p>现在不一样了。很多话不能说，很多情绪要自己消化。表面上都过得还行，实际上各有各的难。大家都在往前走，但很少有人真的轻松。</p>
+🌧️ &nbsp;现在不一样了。很多话不能说，很多情绪要自己消化。表面上都过得还行，实际上各有各的难。大家都在往前走，但很少有人真的轻松。
 
-<p>我们这一代，好像特别擅长"习惯"。习惯一个人吃饭，习惯晚睡，习惯把很多事情憋在心里，慢慢地，也就不太愿意表达了。</p>
+🤐 &nbsp;我们这一代，好像特别擅长"习惯"。习惯一个人吃饭，习惯晚睡，习惯把很多事情憋在心里，慢慢地，也就不太愿意表达了。
 
-<p>有时候会突然想起以前的日子。不是因为那时候有多好，而是因为那时候的自己，还没有现在这么多顾虑，也没有这么多说不出口的东西。</p>
+🔙 &nbsp;有时候会突然想起以前的日子。不是因为那时候有多好，而是因为那时候的自己，还没有现在这么多顾虑，也没有这么多说不出口的东西。
 
-<p><em>说不上遗憾，也谈不上后悔。只是走到现在才发现，有些东西一旦过去了，就真的回不去了。</em></p>
+✨ &nbsp;*说不上遗憾，也谈不上后悔。只是走到现在才发现，有些东西一旦过去了，就真的回不去了。*
 
-</blockquote>
+</td></tr></table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 &nbsp;
 
-### <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25"> Motto | 座右铭
+### <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="28"> &nbsp;Motto | 座右铭
 
 > *"Talk is cheap, show me the code."*
 >
 > 代码胜于雄辩，行动说明一切。
 
----
+&nbsp;
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> My Skills
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> &nbsp;My Skills
 
 <div align="center">
 
@@ -89,7 +91,7 @@ For development, I primarily use Python, Go, and PHP — pragmatic by nature, wh
 
 &nbsp;
 
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="22"> Virtualization & Infrastructure
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="22"> &nbsp;Virtualization & Infrastructure
 
 ![VMware](https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![Citrix](https://img.shields.io/badge/-Citrix-452170?style=for-the-badge&logo=citrix&logoColor=white)
@@ -110,17 +112,19 @@ For development, I primarily use Python, Go, and PHP — pragmatic by nature, wh
 
 </div>
 
----
+&nbsp;
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Projects | 项目展示
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Projects | 项目展示
 
 <div align="center">
 
-[![Windows_PDF_to_word](https://github-readme-stats.vercel.app/api/pin/?username=Aidan-996&repo=Windows_PDF_to_word&theme=radical&hide_border=true&bg_color=0d1117&title_color=C0392B&icon_color=C9A84C)](https://github.com/Aidan-996/Windows_PDF_to_word)
-[![Windows_Auto_Inspection](https://github-readme-stats.vercel.app/api/pin/?username=Aidan-996&repo=Windows_Auto_Inspection&theme=radical&hide_border=true&bg_color=0d1117&title_color=C0392B&icon_color=C9A84C)](https://github.com/Aidan-996/Windows_Auto_Inspection)
+[![Windows_PDF_to_word](https://github-readme-stats.vercel.app/api/pin/?username=Aidan-996&repo=Windows_PDF_to_word&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B6B&icon_color=4ECDC4)](https://github.com/Aidan-996/Windows_PDF_to_word)
+[![Windows_Auto_Inspection](https://github-readme-stats.vercel.app/api/pin/?username=Aidan-996&repo=Windows_Auto_Inspection&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B6B&icon_color=4ECDC4)](https://github.com/Aidan-996/Windows_Auto_Inspection)
 
-[![Linux_Auto_Inspection](https://github-readme-stats.vercel.app/api/pin/?username=Aidan-996&repo=Linux_Auto_Inspection&theme=radical&hide_border=true&bg_color=0d1117&title_color=C0392B&icon_color=C9A84C)](https://github.com/Aidan-996/Linux_Auto_Inspection)
-[![Win_Security_Inspect](https://github-readme-stats.vercel.app/api/pin/?username=Aidan-996&repo=Win_Security_Inspect&theme=radical&hide_border=true&bg_color=0d1117&title_color=C0392B&icon_color=C9A84C)](https://github.com/Aidan-996/Win_Security_Inspect)
+[![Linux_Auto_Inspection](https://github-readme-stats.vercel.app/api/pin/?username=Aidan-996&repo=Linux_Auto_Inspection&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B6B&icon_color=4ECDC4)](https://github.com/Aidan-996/Linux_Auto_Inspection)
+[![Win_Security_Inspect](https://github-readme-stats.vercel.app/api/pin/?username=Aidan-996&repo=Win_Security_Inspect&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B6B&icon_color=4ECDC4)](https://github.com/Aidan-996/Win_Security_Inspect)
 
 </div>
 
@@ -128,6 +132,6 @@ For development, I primarily use Python, Go, and PHP — pragmatic by nature, wh
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=4000&pause=2000&color=667788&center=true&vCenter=true&random=false&width=400&lines=Copyright+%C2%A9+2025+Aidan.+All+rights+reserved." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=12&duration=4000&pause=2000&color=667788&center=true&vCenter=true&random=false&width=400&lines=Copyright+%C2%A9+2025+Aidan.+All+rights+reserved." />
 
 </div>
