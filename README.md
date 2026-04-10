@@ -13,7 +13,7 @@
 
 Hi! I'm **Aidan**, a passionate full stack developer with a strong background in virtualization and cloud technologies. I specialize in VMware, Citrix, Netscaler, and systems administration for both Windows and Linux environments. I'm also proficient in Python, Go, PHP, and am continuously expanding my knowledge in Cloud Native technologies.
 
-你好！我是 **Aidan**，一名全栈开发者，专注于虚拟化与云技术领域���擅长 VMware、Citrix、Netscaler 以及 Windows/Linux 系统运维，同时精通 Python、Go、PHP 等开发语言，持续深耕 Cloud Native 方向。
+你好！我是 **Aidan**，一名全栈开发者，专注于虚拟化与云技术领域。擅长 VMware、Citrix、Netscaler 以及 Windows/Linux 系统运维，同时精通 Python、Go、PHP 等开发语言，持续深耕 Cloud Native 方向。
 
 &nbsp;
 
@@ -96,7 +96,7 @@ Hi! I'm **Aidan**, a passionate full stack developer with a strong background in
 
 ---
 
-### :pushpin: Pinned Projects | 置���项目
+### :pushpin: Pinned Projects | 置顶项目
 
 <div align="center">
 
@@ -106,7 +106,7 @@ Hi! I'm **Aidan**, a passionate full stack developer with a strong background in
 
 ---
 
-### :snake: Contribution Graph | 贡献图�
+### :snake: Contribution Graph | 贡献图
 
 <div align="center">
 
