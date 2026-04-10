@@ -37,30 +37,6 @@ For development, I primarily use Python, Go, and PHP — pragmatic by nature, wh
 
 &nbsp;
 
-### :telescope: Currently Working On | 当前项目
-
-- Developing a [PDF to Word conversion tool](https://github.com/Aidan-996/Windows_PDF_to_word) using intelligent algorithms to automate document processing.
-- 正在开发 [PDF 转 Word 智能工具](https://github.com/Aidan-996/Windows_PDF_to_word)，通过智能算法实现文档自动化转换。
-
-&nbsp;
-
-### :speech_balloon: Let's Talk | 欢迎交流
-
-- Open to discussions and collaborations on any tech topics. Feel free to reach out!
-- 欢迎交流技术话题，无论是虚拟化、开发还是前沿技术，随时联系！
-
-&nbsp;
-
-### :zap: Motto | 座右铭
-
-> *"Talk is cheap, show me the code."*
->
-> 代码胜于雄辩，行动说明一切。
-
-&nbsp;
-
----
-
 <details>
 <summary><b>写在技术之外 | Beyond Code</b></summary>
 
@@ -85,6 +61,14 @@ For development, I primarily use Python, Go, and PHP — pragmatic by nature, wh
 &nbsp;
 
 </details>
+
+&nbsp;
+
+### :zap: Motto | 座右铭
+
+> *"Talk is cheap, show me the code."*
+>
+> 代码胜于雄辩，行动说明一切。
 
 ---
 
