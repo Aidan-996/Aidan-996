@@ -66,6 +66,27 @@ Hi! I'm **Aidan**, a passionate full stack developer with a strong background in
 
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,jenkins,gitlab,prometheus,elasticsearch&perline=8" />
 
+&nbsp;
+
+#### Virtualization & Infrastructure
+
+![VMware](https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Citrix](https://img.shields.io/badge/-Citrix-452170?style=for-the-badge&logo=citrix&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/-NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Veeam](https://img.shields.io/badge/-Veeam-00B336?style=for-the-badge&logo=veeam&logoColor=white)
+![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![ESXi](https://img.shields.io/badge/-ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![vSphere](https://img.shields.io/badge/-vSphere-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Hyper-V](https://img.shields.io/badge/-Hyper--V-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
+![NetScaler](https://img.shields.io/badge/-NetScaler-452170?style=for-the-badge&logo=citrix&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Active Directory](https://img.shields.io/badge/-Active_Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
+![Zabbix](https://img.shields.io/badge/-Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
+![pfSense](https://img.shields.io/badge/-pfSense-333333?style=for-the-badge&logo=pfsense&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
 </div>
 
 ---
