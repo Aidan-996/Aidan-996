@@ -25,10 +25,6 @@ Hi! I'm **Aidan**, a passionate full stack developer with a strong background in
 
 你好！我是 **Aidan**，一名全栈开发者，专注于虚拟化与云技术领域。擅长 VMware、Citrix、Netscaler 以及 Windows/Linux 系统运维，同时精通 Python、Go、PHP 等开发语言，持续深耕 Cloud Native 方向。
 
-I'm deeply involved in the virtualization field and frequently share my insights through my WeChat public account **虚拟化时代君**, where I discuss the latest trends, tools, and best practices for virtualization technologies.
-
-我深度参与虚拟化领域，并通过微信公众号 **虚拟化时代君** 分享最新的虚拟化技术趋势、工具和最佳实践。
-
 &nbsp;
 
 ### :telescope: Currently Working On | 当前项目
@@ -40,18 +36,6 @@ I'm deeply involved in the virtualization field and frequently share my insights
 
 - 正在开发 [PDF 转 Word 智能工具](https://github.com/Aidan-996/Windows_PDF_to_word)，通过智能算法实现文档自动化转换。
 - 探索新的虚拟化工具和技术，提升系统管理与自动化水平。
-
-&nbsp;
-
-### :seedling: Learning Journey | 学习方向
-
-- Continuously learning **Python**, **Go**, and **Cloud Native** technologies to stay ahead of the curve.
-- Researching virtualization technologies and sharing insights through **虚拟化时代君** WeChat account.
-
-&nbsp;
-
-- 持续学习 **Python**、**Go** 和 **Cloud Native** 技术，保持技术前沿。
-- 研究虚拟化技术并通过 **虚拟化时代君** 分享洞察。
 
 &nbsp;
 
@@ -67,21 +51,6 @@ I'm deeply involved in the virtualization field and frequently share my insights
 > *"Talk is cheap, show me the code."*
 >
 > 代码胜于雄辩，行动说明一切。
-
----
-
-### :link: Social Links | 社交链接
-
-<div align="center">
-
-| Platform | Link |
-|:--------:|:----:|
-| :newspaper: **WeChat 公众号** | **虚拟化时代君** (虚拟化技术洞察与分享) |
-| :briefcase: **LinkedIn** | [Aidan's LinkedIn](https://linkedin.com) |
-| :bird: **Twitter** | [@AidanDev](https://twitter.com) |
-| :globe_with_meridians: **Portfolio** | [Aidan's Portfolio](https://github.com/Aidan-996) |
-
-</div>
 
 ---
 
@@ -123,46 +92,6 @@ I'm deeply involved in the virtualization field and frequently share my insights
 
 [![Linux_Auto_Inspection](https://github-readme-stats.vercel.app/api/pin/?username=Aidan-996&repo=Linux_Auto_Inspection&theme=radical&hide_border=true&bg_color=0d1117&title_color=C0392B&icon_color=C9A84C)](https://github.com/Aidan-996/Linux_Auto_Inspection)
 [![Win_Security_Inspect](https://github-readme-stats.vercel.app/api/pin/?username=Aidan-996&repo=Win_Security_Inspect&theme=radical&hide_border=true&bg_color=0d1117&title_color=C0392B&icon_color=C9A84C)](https://github.com/Aidan-996/Win_Security_Inspect)
-
-</div>
-
----
-
-### :bar_chart: GitHub Stats | 统计数据
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aidan-996&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=C0392B&icon_color=C9A84C&text_color=c9d1d9" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aidan-996&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=C0392B&text_color=c9d1d9" />
-
-</div>
-
-&nbsp;
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aidan-996&theme=dark&hide_border=true&background=0d1117&stroke=C0392B&ring=C0392B&fire=C9A84C&currStreakLabel=C9A84C" />
-
-</div>
-
----
-
-### :trophy: GitHub Trophies | 成就奖杯
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Aidan-996&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10)
-
-</div>
-
----
-
-### :snake: Contribution Graph | 贡献图
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Aidan-996/Aidan-996/output/github-snake-dark.svg)
 
 </div>
 
