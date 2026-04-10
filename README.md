@@ -9,38 +9,44 @@
 
 ---
 
-### About Me
+### About Me | 关于我
 
-Hi! I'm **Aidan**, a passionate full stack developer with a strong background in virtualization and cloud technologies. I specialize in VMware, Citrix, Netscaler, and systems administration for both Windows and Linux environments. I'm also proficient in a variety of programming languages including Python, Go, PHP, and am continuously expanding my knowledge in Cloud Native technologies.
+Hi! I'm **Aidan**, a passionate full stack developer with a strong background in virtualization and cloud technologies. I specialize in VMware, Citrix, Netscaler, and systems administration for both Windows and Linux environments. I'm also proficient in Python, Go, PHP, and am continuously expanding my knowledge in Cloud Native technologies.
+
+你好！我是 **Aidan**，一名全栈开发者，专注于虚拟化与云技术领域���擅长 VMware、Citrix、Netscaler 以及 Windows/Linux 系统运维，同时精通 Python、Go、PHP 等开发语言，持续深耕 Cloud Native 方向。
 
 &nbsp;
 
-### :telescope: Currently Working On
+### :telescope: Currently Working On | 当前项目
 
 - Developing a [PDF to Word conversion tool](https://github.com/Aidan-996/Windows_PDF_to_word) using intelligent algorithms to automate document processing.
+- 正在开发 [PDF 转 Word 智能工具](https://github.com/Aidan-996/Windows_PDF_to_word)，通过智能算法实现文档自动化转换。
 
 &nbsp;
 
-### :seedling: My Learning Journey
+### :seedling: Learning Journey | 学习方向
 
-- Continuously learning **Python**, **Go**, and **Cloud Native** technologies to stay ahead of the curve and deliver high-quality solutions.
-
-&nbsp;
-
-### :speech_balloon: Let's Talk
-
-- I'm open to discussions and collaborations on any tech topics, whether it's about development, best practices, or emerging technologies. Feel free to reach out!
+- Continuously learning **Python**, **Go**, and **Cloud Native** technologies to stay ahead of the curve.
+- 持续学习 **Python**、**Go** 和 **Cloud Native** 技术，保持技术前沿。
 
 &nbsp;
 
-### :zap: Motto
+### :speech_balloon: Let's Talk | 欢迎交流
+
+- Open to discussions and collaborations on any tech topics — development, best practices, or emerging technologies.
+- 欢迎交流技术话题 —— 无论是开发、最佳实践还是前沿技术，随时联系。
+
+&nbsp;
+
+### :zap: Motto | 座右铭
 
 > *"Talk is cheap, show me the code."*
-> I believe that actions speak louder than words when it comes to software development.
+>
+> 代码胜于雄辩，行动说明一切。
 
 ---
 
-### :hammer_and_wrench: Tech Stack
+### :hammer_and_wrench: Tech Stack | 技术栈
 
 <div align="center">
 
@@ -60,7 +66,7 @@ Hi! I'm **Aidan**, a passionate full stack developer with a strong background in
 
 ---
 
-### :bar_chart: GitHub Stats
+### :bar_chart: GitHub Stats | 统计数据
 
 <div align="center">
 
@@ -80,7 +86,7 @@ Hi! I'm **Aidan**, a passionate full stack developer with a strong background in
 
 ---
 
-### :trophy: GitHub Trophies
+### :trophy: GitHub Trophies | 成就奖杯
 
 <div align="center">
 
@@ -90,7 +96,7 @@ Hi! I'm **Aidan**, a passionate full stack developer with a strong background in
 
 ---
 
-### :pushpin: Pinned Projects
+### :pushpin: Pinned Projects | 置���项目
 
 <div align="center">
 
@@ -100,7 +106,7 @@ Hi! I'm **Aidan**, a passionate full stack developer with a strong background in
 
 ---
 
-### :snake: Contribution Graph
+### :snake: Contribution Graph | 贡献��
 
 <div align="center">
 
