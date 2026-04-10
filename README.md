@@ -17,7 +17,7 @@
 
 &nbsp;
 
-## About Me
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
 I'm a full stack developer, mainly focused on virtualization and cloud technologies.
 
@@ -27,17 +27,19 @@ For development, I primarily use Python, Go, and PHP — pragmatic by nature, wh
 
 &nbsp;
 
-## 简介
+## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"> 简介
 
 我是一名全栈开发者，主要专注虚拟化和云技术方向。
 
-平时接触比较多的是 VMware、Citrix，以及 ESXi、vSphere、Hyper-V、Proxmox 等环境，NVIDIA GPU 虚拟化也有一定实践经验。系统方面，Windows 和 Linux 都在长期使用和运维。
+平时接触比较多的是 `VMware`、`Citrix`，以及 `ESXi`、`vSphere`、`Hyper-V`、`Proxmox` 等环境，`NVIDIA GPU` 虚拟化也有一定实践经验。系统方面，`Windows` 和 `Linux` 都在长期使用和运维。
 
-开发上主要使用 Python、Go、PHP，偏实用主义，能解决问题就行，也习惯写一些小工具，让事情变得简单一点。
+开发上主要使用 `Python`、`Go`、`PHP`，偏实用主义，能解决问题就行，也习惯写一些小工具，让事情变得简单一点。
 
 &nbsp;
 
-### 写在技术之外 | Beyond Code
+## <img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy.gif" width="30"> 写在技术之外 | Beyond Code
+
+<blockquote>
 
 慢慢做技术这些年，也会开始想一些和技术无关的东西。
 
@@ -53,11 +55,13 @@ For development, I primarily use Python, Go, and PHP — pragmatic by nature, wh
 
 有时候会突然想起以前的日子。不是因为那时候有多好，而是因为那时候的自己，还没有现在这么多顾虑，也没有这么多说不出口的东西。
 
-说不上遗憾，也谈不上后悔。只是走到现在才发现，有些东西一旦过去了，就真的回不去了。
+*说不上遗憾，也谈不上后悔。只是走到现在才发现，有些东西一旦过去了，就真的回不去了。*
+
+</blockquote>
 
 &nbsp;
 
-### :zap: Motto | 座右铭
+### <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25"> Motto | 座右铭
 
 > *"Talk is cheap, show me the code."*
 >
@@ -65,7 +69,7 @@ For development, I primarily use Python, Go, and PHP — pragmatic by nature, wh
 
 ---
 
-### My Skills
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> My Skills
 
 <div align="center">
 
@@ -102,7 +106,7 @@ For development, I primarily use Python, Go, and PHP — pragmatic by nature, wh
 
 ---
 
-### :pushpin: Projects | 项目展示
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Projects | 项目展示
 
 <div align="center">
 
