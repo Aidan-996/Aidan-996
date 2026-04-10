@@ -54,30 +54,17 @@ Hi! I'm **Aidan**, a passionate full stack developer with a strong background in
 
 ---
 
-### :hammer_and_wrench: Skills | 技能
+### My Skills
 
 <div align="center">
 
-#### Virtualization | 虚拟化
-![VMware](https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![Citrix](https://img.shields.io/badge/-Citrix-452170?style=for-the-badge&logo=citrix&logoColor=white)
-![Netscaler](https://img.shields.io/badge/-Netscaler-452170?style=for-the-badge&logo=citrix&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,go,php,js,ts,bash,html,css&perline=8" />
 
-#### Cloud Native | 云原生
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,windows,nginx,redis,mysql,postgres&perline=8" />
 
-#### Languages | 编程语言
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,vim,ansible,terraform,grafana&perline=8" />
 
-#### Operating Systems | 操作系统
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,jenkins,gitlab,prometheus,elasticsearch&perline=8" />
 
 </div>
 
