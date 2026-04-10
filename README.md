@@ -106,7 +106,7 @@ Hi! I'm **Aidan**, a passionate full stack developer with a strong background in
 
 ---
 
-### :snake: Contribution Graph | 贡献��
+### :snake: Contribution Graph | 贡献图�
 
 <div align="center">
 
