@@ -37,10 +37,7 @@ For development, I primarily use Python, Go, and PHP — pragmatic by nature, wh
 
 &nbsp;
 
-<details>
-<summary><b>写在技术之外 | Beyond Code</b></summary>
-
-&nbsp;
+### 写在技术之外 | Beyond Code
 
 慢慢做技术这些年，也会开始想一些和技术无关的东西。
 
@@ -57,10 +54,6 @@ For development, I primarily use Python, Go, and PHP — pragmatic by nature, wh
 有时候会突然想起以前的日子。不是因为那时候有多好，而是因为那时候的自己，还没有现在这么多顾虑，也没有这么多说不出口的东西。
 
 说不上遗憾，也谈不上后悔。只是走到现在才发现，有些东西一旦过去了，就真的回不去了。
-
-&nbsp;
-
-</details>
 
 &nbsp;
 
