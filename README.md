@@ -19,29 +19,34 @@
 
 ## About Me
 
-Hi! I'm **Aidan**, a passionate full stack developer with a strong background in virtualization and cloud technologies. I specialize in VMware, Citrix, Netscaler, and systems administration for both Windows and Linux environments. I'm also proficient in Python, Go, PHP, and am continuously expanding my knowledge in Cloud Native technologies.
+I'm a full stack developer, mainly focused on virtualization and cloud technologies.
 
-## 关于我
+Most of my hands-on experience is with VMware, Citrix, along with ESXi, vSphere, Hyper-V, Proxmox and similar environments. I also have practical experience with NVIDIA GPU virtualization. On the OS side, I've been working with both Windows and Linux for years.
 
-你好！我是 **Aidan**，一名全栈开发者，专注于虚拟化与云技术领域。擅长 VMware、Citrix、Netscaler 以及 Windows/Linux 系统运维，同时精通 Python、Go、PHP 等开发语言，持续深耕 Cloud Native 方向。
+For development, I primarily use Python, Go, and PHP — pragmatic by nature, whatever gets the job done. I also enjoy building small tools to make things a little simpler.
+
+&nbsp;
+
+## 简介
+
+我是一名全栈开发者，主要专注虚拟化和云技术方向。
+
+平时接触比较多的是 VMware、Citrix，以及 ESXi、vSphere、Hyper-V、Proxmox 等环境，NVIDIA GPU 虚拟化也有一定实践经验。系统方面，Windows 和 Linux 都在长期使用和运维。
+
+开发上主要使用 Python、Go、PHP，偏实用主义，能解决问题就行，也习惯写一些小工具，让事情变得简单一点。
 
 &nbsp;
 
 ### :telescope: Currently Working On | 当前项目
 
 - Developing a [PDF to Word conversion tool](https://github.com/Aidan-996/Windows_PDF_to_word) using intelligent algorithms to automate document processing.
-- Exploring new virtualization tools and techniques to improve system management and automation.
-
-&nbsp;
-
 - 正在开发 [PDF 转 Word 智能工具](https://github.com/Aidan-996/Windows_PDF_to_word)，通过智能算法实现文档自动化转换。
-- 探索新的虚拟化工具和技术，提升系统管理与自动化水平。
 
 &nbsp;
 
 ### :speech_balloon: Let's Talk | 欢迎交流
 
-- I'm open to discussions and collaborations on any tech topics, whether it's about virtualization, development, or emerging technologies. Feel free to reach out!
+- Open to discussions and collaborations on any tech topics. Feel free to reach out!
 - 欢迎交流技术话题，无论是虚拟化、开发还是前沿技术，随时联系！
 
 &nbsp;
@@ -51,6 +56,35 @@ Hi! I'm **Aidan**, a passionate full stack developer with a strong background in
 > *"Talk is cheap, show me the code."*
 >
 > 代码胜于雄辩，行动说明一切。
+
+&nbsp;
+
+---
+
+<details>
+<summary><b>写在技术之外 | Beyond Code</b></summary>
+
+&nbsp;
+
+慢慢做技术这些年，也会开始想一些和技术无关的东西。
+
+我们这一代人，大多都是从不太起眼的地方走出来的。小时候觉得世界很小，一条路、一盏灯、一顿饭，就能过一天。那时候总想着快点长大，去更远的地方，看更多的东西。
+
+后来真的走远了，见的也多了。可慢慢发现，很多东西并没有想象中那么值得期待。城市很大，人很多，但热闹好像都跟自己没什么关系。
+
+小时候觉得苦的日子，现在回头看，反而是最安稳的。那时候没有太多选择，也没有太多压力，累了就睡，饿了就吃，难过也很简单。
+
+现在不一样了。很多话不能说，很多情绪要自己消化。表面上都过得还行，实际上各有各的难。大家都在往前走，但很少有人真的轻松。
+
+我们这一代，好像特别擅长"习惯"。习惯一个人吃饭，习惯晚睡，习惯把很多事情憋在心里，慢慢地，也就不太愿意表达了。
+
+有时候会突然想起以前的日子。不是因为那时候有多好，而是因为那时候的自己，还没有现在这么多顾虑，也没有这么多说不出口的东西。
+
+说不上遗憾，也谈不上后悔。只是走到现在才发现，有些东西一旦过去了，就真的回不去了。
+
+&nbsp;
+
+</details>
 
 ---
 
